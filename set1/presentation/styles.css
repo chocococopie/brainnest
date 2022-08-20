@@ -11,6 +11,20 @@
     margin-bottom: 4px;
 }
 
+.nav__wrap--footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style-type: none;
+    background-color: black;
+    padding: 8px 48px;
+    margin-top: 48px;
+}
+
+.nav__wrap--footer a{
+    padding: 16px;
+}
+
 .nav__content {
     display: flex;
     flex-direction: row;
