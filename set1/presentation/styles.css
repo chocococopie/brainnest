@@ -37,7 +37,7 @@
 }
 
 .nav__content a {
-    font-family: Copperplate;
+    font-family: Copperplate, serif;
 }
 
 .nav__content li {
@@ -85,7 +85,7 @@ a:hover {
 }
 
 .container__inner--caption--marker {
-    font-family: Copperplate;
+    font-family: Copperplate, serif;
     background-color: black;
     color: #ffffff;
     display: flex;
