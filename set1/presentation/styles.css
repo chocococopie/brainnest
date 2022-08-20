@@ -1,5 +1,6 @@
 * {
     font-family: Arial Rounded MT, sans-serif;
+    box-sizing: border-box;
 }
 
 .nav__wrap {
@@ -110,8 +111,6 @@ a:hover {
     width: 127px;
     height: 159px;
 }
-
-* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
